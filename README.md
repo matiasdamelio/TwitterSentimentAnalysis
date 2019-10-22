@@ -20,4 +20,14 @@ http://localhost:9200 (Elasticsearch)
 http://localhost:5601 (Kibana)
 ```
 
+## Twitter Streaming API
+
+Para acceder al servicio de **Streaming API de Twitter**, es necesario registrar una aplicación en [Twitter Apps](http://apps.twitter.com).
+Una vez creada la app, crear un archivo *config.py* con el siguiente formato:
+```
+consumer_key = "consumer_key"
+consumer_secret = "consumer_secret"
+access_token = "access_token"
+access_token_secret = "access_token_secret"
+```
 
