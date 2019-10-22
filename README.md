@@ -40,5 +40,7 @@ Instalar librerias:
 pip install --requirement requirements.txt
 ```
 
+### Tracking Keywords
 
+En *sentiment.py* modificar en la linea 62 las palabras claves a buscar.
 
