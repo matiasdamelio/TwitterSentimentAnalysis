@@ -53,4 +53,8 @@ python sentiment.py
 
 En Kibana importar el archivo **dashboard_twitter.json** desde Management -> Saved Objects -> Import
 
+## Task List
 
+- [x] Armar Dashboard
+- [ ] Modificar tabla de Tweets para ordenar ascendentemente por fecha
+- [ ] Modificar el criterio de categorias de sentiment
