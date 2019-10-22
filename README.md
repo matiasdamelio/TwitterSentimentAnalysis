@@ -44,3 +44,13 @@ pip install --requirement requirements.txt
 
 En *sentiment.py* modificar en la linea 62 las palabras claves a buscar.
 
+## Run
+
+Correr primero el *listener* de streaming tweets:
+```
+python sentiment.py
+```
+
+En Kibana importar el archivo **dashboard_twitter.json** desde Management -> Saved Objects -> Import
+
+
