@@ -31,3 +31,12 @@ access_token = "access_token"
 access_token_secret = "access_token_secret"
 ```
 
+## Packages
+
+Instalar librerias:
+```
+pip install --requirement requirements.txt
+```
+
+
+
