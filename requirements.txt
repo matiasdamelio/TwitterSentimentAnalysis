@@ -1,0 +1,5 @@
+elasticsearch==7.0.5
+json5==0.8.4
+jsonschema==3.0.1
+textblob==0.15.3
+tweepy==3.8.0
